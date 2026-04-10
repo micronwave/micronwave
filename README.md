@@ -1,10 +1,8 @@
-#  Welcome, I'm Aaron
+#  MICRONWAVE
 
 I'm interested in -
-- *Machine Learning*: New algorithms and practical applications
-- *Cloud*: Configuring systems
-- *OSINT*: Open data for research/intel gathering
-- *Blockchain*: Infrastructure use cases 
+*Machine Learning*, *Blockchain*, *OSINT*, and *Cloud*
+
 
 I'm always open to new ideas and experimenting, so if you're interested in collaborating on something, feel free to reach out ~ micronwave@proton.me
 
