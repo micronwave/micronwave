@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building thoughtful software with a focus on clean engineering and practical impact.
+  Building things I find useful.
 </p>
 
 | GitHub Stats | Top Languages |
