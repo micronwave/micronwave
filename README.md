@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://aaronaltergott.cv">aaronaltergott.cv</a>
+  <a href="https://aaronaltergott.cv">altergott.dev</a>
 </p>
