@@ -5,7 +5,3 @@
 <p align="center">
   <a href="https://aaronaltergott.cv">altergott.dev</a>
 </p>
-
-<p align="center">
-  <a href="https://propagandle.com">propagandle.com</a>
-</p>
